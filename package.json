@@ -1,5 +1,5 @@
 {
-  "name": "webpack-dev-server",
+  "name": "@dlmanning/webpack-dev-server",
   "version": "1.11.0",
   "author": "Tobias Koppers @sokra",
   "description": "Serves a webpack app. Updates the browser on changes.",
@@ -33,7 +33,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git://github.com/webpack/webpack-dev-server.git"
+    "url": "git://github.com/dlmanning/webpack-dev-server.git"
   },
   "homepage": "http://github.com/webpack/webpack-dev-server",
   "main": "lib/Server.js",
